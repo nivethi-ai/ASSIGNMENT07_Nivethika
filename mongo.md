@@ -1,4 +1,5 @@
    # Mongodb exercise 01
+   '''
 ## 1. Create a Database called movies?
 
  'use movies'
@@ -51,7 +52,7 @@
 
 ## 10. List out the Director’s Name in your document?
  'db.moviesdetails.distinct("director")'
- 
+ '''
 
 
 
